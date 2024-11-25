@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://jwgpt.org/sitemap.xml
+
+# Crawl-delay to prevent overwhelming the server
+Crawl-delay: 10
